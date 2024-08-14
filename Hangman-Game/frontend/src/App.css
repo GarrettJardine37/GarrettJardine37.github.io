@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+  }
+  
+  .start-screen {
+    margin-top: 50px;
+  }
+  
+  .start-screen input {
+    margin-right: 10px;
+  }
+  
+  .game-over,
+  .game-won {
+    margin-top: 50px;
+  }
+  

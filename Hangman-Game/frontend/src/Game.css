@@ -1,0 +1,30 @@
+.game {
+    text-align: center;
+  }
+  
+  .word {
+    margin: 20px 0;
+    font-size: 24px;
+  }
+  
+  .letter {
+    display: inline-block;
+    width: 20px;
+    border-bottom: 2px solid black;
+    margin: 0 5px;
+    text-align: center;
+  }
+  
+  .letters button {
+    margin: 5px;
+  }
+  
+  .incorrect-guesses {
+    margin-top: 20px;
+  }
+  
+  .game-over, .game-won {
+    text-align: center;
+    margin-top: 20px;
+  }
+  

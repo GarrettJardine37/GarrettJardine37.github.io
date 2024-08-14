@@ -1,0 +1,15 @@
+.high-scores {
+    margin-top: 50px;
+  }
+  
+  .high-scores table {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .high-scores th,
+  .high-scores td {
+    padding: 10px;
+    border: 1px solid #000;
+  }
+  
