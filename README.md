@@ -1,3 +1,3 @@
 # Garrett J Portfolio
-## Game design projects
-Here's where all my cool game design projects would be, but I reset my computer recently. Upon cloning all the repositories, I realised I messsed up the git ignore and all of the assets, materials, and scenes are missing meaning I'd have to essentially start over from scratch. Awesome :_{U+1F643}
+## HangMan
+This is a MERN fullstack web application designed to allow you to play hang man in your browser. We populated the database using a free online word api. After creating an account, a word is randomly seleceted from the database and the player is presented with the game UI in which they play hangman. After winning, the player's score is saved and they are shown a high scores screen. This app uses React for the frontend and mongo dB for the backend
